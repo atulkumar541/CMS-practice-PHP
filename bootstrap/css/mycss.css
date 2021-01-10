@@ -1,0 +1,32 @@
+
+.navbar{
+    	margin-top: 1px;
+	}
+#nav a{
+
+    margin:10px;
+	color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+}
+#nav a:hover{
+	color: red;
+	text-decoration: none;
+    background-color: transparent;
+
+}
+#card_post{
+    margin-top: 10px;
+}
+.card-post{
+    margin-top: 10px;
+    }
+    #cms
+    {
+        font-weight: 700px;
+        font-family: all;
+        font-size: 20px;
+    }
+.nav-link{
+    color: black;
+}
